@@ -1,0 +1,9 @@
+{
+    "name": "sovnheim-bookshelf",
+    "title": "Sovnheim's Nonfiction Bookshelf",
+    "description": "A random Book generator for Foundry VTT",
+    "version": "0.1.0",
+    "author": "sovnheim",
+    "minimumCoreVersion": "0.5.0",
+    "esmodules": ["scripts/index.js", "scripts/bookgen.js"]
+}
